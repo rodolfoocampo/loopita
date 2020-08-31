@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 10;
+  display: flex;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+  background-color: rgb(3,31,77);
+}
+
+h1 {
+  clear: both;
+  float:right;
+}
